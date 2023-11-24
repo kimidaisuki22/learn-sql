@@ -1,0 +1,1 @@
+ALTER TABLE my_table ADD COLUMN name_id INTEGER;
